@@ -1,2 +1,2 @@
-# my_pygame_spaceInvader
+# My_pygame_spaceInvader
 my start up pygame project
